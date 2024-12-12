@@ -8,9 +8,9 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 ## What You're Creating
 This new assignment consists of two technical products. You will submit the following deliverables:
 
-- Deliverable 1: Scrape titles and preview text from Mars news articles.
+- Deliverable 1: Scrape titles and preview text from Mars news articles. [part_1_mars_news.ipynb Completed Assignmnet](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_1_mars_news.ipynb)
 
-- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table. [part_2_mars_weather.ipynb Completed Assignmnet](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_2_mars_weather.ipynb)
 
 # Requirements
 
@@ -20,6 +20,8 @@ This new assignment consists of two technical products. You will submit the foll
 - The titles and preview text of the news articles were scraped and extracted.
 
 - The scraped information was stored in the specified Python data structure, specifically a list of dictionaries.
+
+- Optional: Store the scraped data in a JSON file [scraped_data.json](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/scraped_data.json) 
 
 ## Part 2: Scrape and Analyze Mars Weather Data
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types.
@@ -38,7 +40,7 @@ This new assignment consists of two technical products. You will submit the foll
 
     - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 
-- The DataFrame was exported into a CSV file.
+- The DataFrame was exported into a CSV file. [mars_weather.csv](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/mars_weather.csv)
 
 
 --------------------------------------------------------------------------------------------------
