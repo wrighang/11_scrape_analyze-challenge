@@ -8,9 +8,9 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 ## What You're Creating
 This new assignment consists of two technical products. You will submit the following deliverables:
 
-- Deliverable 1: Scrape titles and preview text from Mars news articles. [part_1_mars_news.ipynb Completed Assignmnet](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_1_mars_news.ipynb)
+- [Deliverable 1: Scrape titles and preview text from Mars news articles](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_1_mars_news.ipynb)
 
-- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table. [part_2_mars_weather.ipynb Completed Assignmnet](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_2_mars_weather.ipynb)
+- [Deliverable 2: Scrape and analyze Mars weather data, which exists in a table](https://github.com/wrighang/11_scrape_analyze-challenge/blob/main/part_2_mars_weather.ipynb)
 
 # Requirements
 
